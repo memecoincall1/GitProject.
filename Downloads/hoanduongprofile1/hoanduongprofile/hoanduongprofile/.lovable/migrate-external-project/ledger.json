@@ -1,0 +1,107 @@
+[
+  {
+    "capability": "pages",
+    "source": "https://lauradang.com/",
+    "outcome": "recreate",
+    "status": "verified",
+    "next_action": "Public content and navigation verified in the preview."
+  },
+  {
+    "capability": "assets",
+    "source": "https://lauradang.com/",
+    "outcome": "preserve",
+    "status": "verified",
+    "next_action": "Public content and navigation verified in the preview."
+  },
+  {
+    "capability": "database",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "No database detected in public site."
+  },
+  {
+    "capability": "records",
+    "source": "https://lauradang.com/",
+    "outcome": "static_content",
+    "status": "verified",
+    "next_action": "Public content and navigation verified in the preview."
+  },
+  {
+    "capability": "auth",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "No sign-in detected."
+  },
+  {
+    "capability": "authorization",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "Public personal website."
+  },
+  {
+    "capability": "storage",
+    "source": "https://lauradang.com/",
+    "outcome": "static_assets",
+    "status": "verified",
+    "next_action": "Public content and navigation verified in the preview."
+  },
+  {
+    "capability": "external_providers",
+    "source": "https://lauradang.com/",
+    "outcome": "preserve",
+    "status": "verification_pending",
+    "next_action": "Original Google Apps Script destinations preserved. Form delivery requires owner confirmation; no test submissions sent to the live mailing list."
+  },
+  {
+    "capability": "public_endpoints",
+    "source": "https://lauradang.com/",
+    "outcome": "preserve",
+    "status": "verified",
+    "next_action": "Public content and navigation verified in the preview."
+  },
+  {
+    "capability": "callbacks",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "None detected."
+  },
+  {
+    "capability": "webhooks",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "None detected."
+  },
+  {
+    "capability": "schedules",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "None detected."
+  },
+  {
+    "capability": "secrets",
+    "source": "https://lauradang.com/",
+    "outcome": "not_detected",
+    "status": "not_applicable",
+    "next_action": "No secrets required."
+  },
+  {
+    "capability": "cutover",
+    "source": "https://lauradang.com/",
+    "outcome": "pending",
+    "status": "pending",
+    "next_action": "User has not requested publishing."
+  },
+  {
+    "capability": "verification",
+    "source": "https://lauradang.com/",
+    "outcome": "verify",
+    "status": "partially_verified",
+    "next_action": "Desktop/mobile navigation, article reading, 18 covers, book dialogs, and form fields verified without runtime errors; live form delivery unverified."
+  }
+]
